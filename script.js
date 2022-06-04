@@ -8,6 +8,7 @@ button.addEventListener("click",function(){
     const b = document.querySelector(".length2").value;
     const c = document.querySelector(".length3").value;
 
+
     if(a+b>c && b+c>a && a+c>b){
         text = "The given sides can form a triangle"
     }
