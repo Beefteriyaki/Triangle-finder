@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    margin-left: 32rem;
+}
+
+.output{
+    margin-left: 0rem;
+    margin-top: .5rem;
+    padding-right: 12rem;
+    width: 12rem;
+}
